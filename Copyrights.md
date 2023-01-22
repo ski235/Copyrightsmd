@@ -27,7 +27,7 @@
 ### Penality
 
 #### Ban
-##### You can be ban : You can not see this repositories
+##### You can be ban : You can not see this repository
 
 
 #### Read only 
