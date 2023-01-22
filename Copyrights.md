@@ -8,9 +8,7 @@
 4.[Penality](#Penality)
 
 ### Copyrights
-#### Copyrights WikiFamille Organistion
 
-#### Copyrights @mbsenvoillage for 3D Buttons (submodule)
 
 ### Rules
 #### Pull Request is mandatory before merging
