@@ -1,5 +1,5 @@
 # Repositories rules
-### Table des matières
+### Table of contents
 1.[Copyrights](#Copyrights)
 
 2.[Rules](#Rules)
